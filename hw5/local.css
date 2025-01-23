@@ -1,0 +1,368 @@
+
+/* header */
+header {
+    padding-left: 80px;
+}
+
+.header-con {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-con-left {
+    width: 39.5%;
+    margin-top: 30px;
+}
+
+.header-con-right {
+    width: 60.5%;
+}
+
+.head-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.head-menu {
+    min-width: 525px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.head-title-wrap {
+    height: calc(100% - 96px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.head-title .title-sm:first-child {
+    text-transform: uppercase;
+}
+
+.head-title .title-lg {
+    margin-top: 40px;
+}
+
+.head-title .btn {
+    margin-top: 20px;
+}
+
+
+/* Section 1 */
+.s1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1148px;
+}
+
+.s1-content {
+   /* margin: 210px 270px; */
+   width: 1400px;
+   display: flex;
+   justify-content: space-between;
+   position: relative;
+}
+
+.s1-content-r {
+    margin-left: 45px;
+}
+
+.sing {
+    position: absolute;
+    bottom: 100px;
+    right: 70px;
+}
+
+/* section 2 */
+
+.s2 {
+    display: flex;
+    padding-bottom: 30px ;
+}
+.menu-sc {
+    width: 60%;
+    padding-left: 80px; 
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.menu {
+    margin-bottom: 40px;
+}
+.pizza-p {
+    width: 40%;
+    padding-right: 50px ;
+    /* padding-left: 40px; */
+}
+.img-pizza {
+    margin-bottom: 10px;
+}
+.menu-text{
+    width: 70%;
+    margin-bottom: 50px;
+}
+.n-p {
+    /* max-width: 95%; */
+    display: flex;
+    justify-content: space-between;
+}
+.dishes {
+    max-width: 80%;
+    min-width: 915px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    margin-bottom: 50px;
+}
+.dish {
+    margin-bottom: 60px;
+    width: 282px;
+    height: auto;
+}
+.arrow {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+}
+.right-ar {
+    top: 100px;
+    right: -50px;
+}
+.left-ar {
+    top: 100px;
+    left: -50px; 
+}
+.look-btn {
+  background-color: #fcfcfcca ;
+  color: #292E36;
+  padding: 35.5px 140px;    
+}
+.vine-btn {
+    padding: 24.5px 88px;
+}
+.look-btn {
+    padding: 24px 50px;
+    margin-right: 20px;
+}
+
+/* section-3 */
+.s3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1148px;
+}
+.s3-content {
+    max-width: 1620px;
+    display: flex;
+    justify-content: space-around;
+}
+.s3-img {
+    max-height: 900px;
+}
+.second-p-s3 {
+    max-width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+h2 {
+    margin-bottom: 50px;
+}
+.s3-text {
+    margin-bottom: 30px;
+}
+.quote-text {
+    margin-bottom: 50px;  
+}
+
+/* section 4 */
+.s4 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+.event-nav {
+    display: flex;
+    justify-content: space-around;
+    /* padding: 0px 20px; */
+    width: 80%;
+}
+.content-events {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 40px;
+}
+
+.events {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.first-event {
+    width: 4%0;
+    height: 90%;
+}
+.second-event {
+    width: 41.8%;
+    height: 100%;
+}
+.date-event {
+    margin-top: 40px;
+    /* padding-bottom: 0px; */
+    padding-left: 20px;
+    display: flex;
+}
+.day {
+    margin-right: 40px;
+}
+.name-e {
+    padding-left: 20px;
+    margin-top: 40px;
+}
+.add-text {
+    padding-left: 20px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+/* section 5 */
+.content-s5 {
+    padding: 50px 40px;
+}
+.s5-head {
+    margin-bottom: 30px;
+}
+.img-s5 {
+    /* margin-top: 50px; */
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 40px;
+}
+.img-1-s5, .img-3-s5 {
+    /* max-width: 580px;
+    height: 480px; */
+    width: 31%;
+}
+.scroll-box {
+    display: flex;  
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+/* section 6 */
+.s6 {
+    display: flex;
+    padding: 30px 205px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.second-s6{
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.head-s6 {
+    margin-bottom: 60px;
+}
+.form-s6 {
+    width: 60%;
+}
+input::placeholder{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.13px;
+    color: #292e3654;
+}
+.form-book-table {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+.input {
+    border:1px solid #292E3675;
+    width: 75%;
+    max-height: 71px;
+    min-height: 50px;
+    padding-left: 15px;
+    margin: 30px 0px;
+}
+.check-con {
+    margin-bottom: 40px;
+    width: 78%;
+    display: flex;
+    justify-content: space-between;
+}
+.book-bt {
+    width: 60%;
+}
+
+/* nav */
+.nav-map {
+    padding: 0px 210px;
+    padding-top: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.text-last {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 25.83px;
+    color: #FCFCFC;
+    margin-bottom: 30px;
+  }
+  .data {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 25.83px;
+    color: #fcfcfcca;
+    margin-bottom: 30px;
+  }
+  .insta {
+    display: flex;
+    justify-content: space-between; 
+    max-width: 160px;
+  }
+  .inst {
+    width: 33px;
+    height: 30px;
+  }
+  .last-head {
+    margin-bottom: 20px;
+  }
+  .map {
+    width: 50%;
+  }
+  iframe {
+    width: 100%;
+  }
+
+  /* footer */
+  .footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 200px;
+  }
+  .line {
+    margin: 70px 0px;
+  }
+  .logo-footer {
+    margin-bottom: 70px;
+  }
