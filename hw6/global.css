@@ -1,0 +1,116 @@
+
+body {
+    padding: 0px 80px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: (252, 252, 251);
+}
+
+.font-head {
+    font-family: Montserrat, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29.35px;
+}
+
+.font-cl {
+    color: #333D47;
+}
+.tl-font {
+    font-family: Roboto Mono, sans-serif;
+    font-size: 88px;
+    font-weight: 500;
+    line-height: 84.92px;
+    color: #333D47;
+}
+
+.tl-font-sm {
+    font-family: Roboto Mono, sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 48.25px;
+    color: #333D47;
+}
+
+.font-t {
+    font-family: Montserrat, sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 34.24px;
+    color: #333D47;
+}
+.gray-font{
+    color: #333D47A6;
+}
+.lg-cl {
+    color: #333D4761;
+}
+.font-sm {
+    font-family: Montserrat, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 10px;
+    color: #333D47;
+}
+.font-cl-wh {
+    color: #F0F0F0;
+}
+
+.font-sm-tl{
+    font-family: Roboto Mono, sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 27.02px;
+}
+.font-sec2 {
+    font-family: Montserrat, sans-serif;   
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 26.91px;
+    color: #333D4769;
+}
+.shadow {
+    box-shadow: -5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+.font-smaller {
+    font-family: Roboto Mono, sans-serif;
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 32.81px;
+    color: #333D47;
+}
+.font-4{
+    font-family: Montserrat, sans-serif; 
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 42.08px;
+    color: #333D47;
+}
+.green-font{
+    font-family: Montserrat, sans-serif; 
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48.59px;
+    color: #94D500;
+}
+.gray-font-cl{
+    font-family: Montserrat, sans-serif; 
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 46.47px;
+    color: #333D4791;
+}
+.font-5{
+    font-family: Montserrat, sans-serif; 
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.35px;
+    color: #333D478C;
+}
+.link{
+    color: #333D47;
+    text-decoration: none;
+}
+.font-cl {
+    color: #333D47;
+}
