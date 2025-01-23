@@ -1,0 +1,25 @@
+/* Для мобільних (290-410px) */
+@media (max-width: 410px) {
+    body {
+        font-size: 14px;
+    }
+}
+
+/* Для смартфонів (410-768px) */
+@media (min-width: 411px) and (max-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+}
+
+/* Для планшетів (768-1024px) */
+@media (min-width: 769px) and (max-width: 1024px) {
+    body {
+        font-size: 18px;
+    }
+}
+
+/* Для ноутбуків та моніторів (1024-1440px) */
+@media (min-width: 1025px) and (max-width: 1440px) {
+    
+}
